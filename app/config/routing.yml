@@ -1,0 +1,4 @@
+annonces_voitures:
+    resource: "@AnnoncesVoituresBundle/Resources/config/routing.yml"
+    prefix:   /
+
