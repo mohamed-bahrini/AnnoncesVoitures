@@ -1,3 +1,6 @@
 annonces_voitures_homepage:
     path:     /hello/{name}
     defaults: { _controller: AnnoncesVoituresBundle:Default:index }
+annoncesvoiture_accueilpage:
+    path:     /accueil
+    defaults: { _controller: AnnoncesVoituresBundle:Accueil:accueil }
